@@ -1,0 +1,23 @@
+CATEGORIA
+"descricao": "Autoajuda",
+  "nome": "A literatura de autoajuda trabalha em prol do autoconhecimento do indivíduo."
+
+ 
+
+"descricao": "Romance",
+  "nome": "Histórias capazes de emocionar e cativar todos os públicos."
+
+ 
+
+"descricao": "Ficção Científica",
+  "nome": "Se aprofunde mais nos conceitos científicos e tecnológicos de um futuro próximo."
+
+ 
+
+"descricao": "Política",
+  "nome": "Intere-se sobre assuntos pertinentes ao assuntos da política brasileira e global."
+
+ 
+
+"descricao": "Suspense",
+  "nome": "Mergulhe em mistérios nebulosos a serem resolvidos pelos leitores."

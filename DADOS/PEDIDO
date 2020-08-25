@@ -1,0 +1,41 @@
+PEDIDO
+
+ "idCliente": 1,
+  "idProdutos": [
+    1
+  ],
+  "quantidadesProdutos": [
+    10
+  ]
+
+ "idCliente": 2,
+  "idProdutos": [
+    2, 3
+  ],
+  "quantidadesProdutos": [
+    1, 1
+  ]
+  
+  "idCliente": 3,
+  "idProdutos": [
+    1, 3
+  ],
+  "quantidadesProdutos": [
+    1, 1
+  ]
+  
+  "idCliente": 4,
+  "idProdutos": [
+    1, 3
+  ],
+  "quantidadesProdutos": [
+    1, 1
+  ]
+  
+  "idCliente": 5,
+  "idProdutos": [
+    5, 4
+  ],
+  "quantidadesProdutos": [
+    1, 1
+  ]

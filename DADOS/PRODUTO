@@ -1,0 +1,97 @@
+PRODUTO
+
+"autor": "Hal Elrod",
+  "dataDeFabricacao": "2020-02-19",
+  "descricao": "Explica  os benefícios de acordar cedo.",
+  "idCategoria": 1,
+  "idFuncionario": 1,
+  "nome": "O milagre da manhã",
+  "quantidadeEmEstoque": 50,
+  "valorUnitario": 39.90
+
+"autor": "Paola Aleksandra",
+  "dataDeFabricacao": "2020-12-20",
+  "descricao": "Anastácia precisará enfrentar o passado e descobrir como recomeçar.",
+  "idCategoria": 2,
+  "idFuncionario": 2,
+  "nome": "Livre pra recomeçar",
+  "quantidadeEmEstoque": 30,
+  "valorUnitario": 49.90
+
+"autor": "Margaret Atwood",
+  "dataDeFabricacao": "2020-06-24",
+  "descricao": "Distopia que se passa num futuro possível e tem como cenário um governo autoritário.",
+  "idCategoria": 3,
+  "idFuncionario": 3,
+  "nome": "O conto da Aia",
+  "quantidadeEmEstoque": 35,
+  "valorUnitario": 29.90
+
+"autor": "Jessé Souza",
+  "dataDeFabricacao": "2020-03-14",
+  "descricao": "Apresenta uma interpretação abrangente, inovadora e ousada da sociedade brasileira.",
+  "idCategoria": 4,
+  "idFuncionario": 4,
+  "nome": "A elite do atraso: Da escravidão ao Bolsonaro",
+  "quantidadeEmEstoque": 22,
+  "valorUnitario": 34.90
+
+"autor": "A. J. Finn",
+  "dataDeFabricacao": "2020-01-15",
+  "descricao": "Suspense psicológico engenhoso e comovente que remete ao melhor de Hitchcock.",
+  "idCategoria": 5,
+  "idFuncionario": 5,
+  "nome": "A mulher na janela",
+  "quantidadeEmEstoque": 35,
+  "valorUnitario": 28.90
+  
+  "autor": "Eckhart Tolle",
+  "dataDeFabricacao": "2020-01-21",
+  "descricao": "Se queremos realmente mudar nossas vidas, precisamos começar neste momento.",
+  "idCategoria": 1,
+  "idFuncionario": 1,
+  "nome": "O poder do agora",
+  "quantidadeEmEstoque": 15,
+  "valorUnitario": 36.90
+
+"autor": "Julia Quinn",
+  "dataDeFabricacao": "2020-04-17",
+  "descricao": "Relata a envolvente história entre Daphine e o Duque Simon.",
+  "idCategoria": 2,
+  "idFuncionario": 2,
+  "nome": "O Duque e eu",
+  "quantidadeEmEstoque": 27,
+  "valorUnitario": 33.90
+
+ 
+
+"autor": "Aldous Huxley",
+  "dataDeFabricacao": "2020-04-02",
+  "descricao": "Clássico moderno para quem procura um dos exemplos mais marcantes de Estados autoritários.",
+  "idCategoria": 3,
+  "idFuncionario": 3,
+  "nome": "Admirável mundo novo",
+  "quantidadeEmEstoque": 43,
+  "valorUnitario": 44.90
+
+ 
+
+"autor": "Anthony Daniels",
+  "dataDeFabricacao": "2020-04-25",
+  "descricao": "Trata quais as consequências sociais e políticas das ações de uma sociedade que se permite pautar predominantemente pelos sentimentos.",
+  "idCategoria": 4,
+  "idFuncionario": 4,
+  "nome": "Podres de mimados: as consequências do sentimentalismo tóxico",
+  "quantidadeEmEstoque": 24,
+  "valorUnitario": 54.90
+
+ 
+
+"autor": "Jeffery Deaver",
+  "dataDeFabricacao": "2020-01-23",
+  "descricao": "Relata a história de um criminalista em busca de um assassino que começa a espalhar vítimas mutiladas pela cidade de Nova York.",
+  "idCategoria": 5,
+  "idFuncionario": 5,
+  "nome": "O colecionador de ossos",
+  "quantidadeEmEstoque": 31,
+  "valorUnitario": 79.90

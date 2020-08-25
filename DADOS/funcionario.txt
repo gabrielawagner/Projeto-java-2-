@@ -1,0 +1,15 @@
+FUNCIONÁRIO
+"cpf": "16052877621",
+  "nome": "Eduardo Silva"
+
+"cpf": "29482347826",
+  "nome": "Marina Pereira"
+
+"cpf": "14480912573",
+  "nome": "Isabella Marques"
+
+"cpf": "17773584958",
+  "nome": "Guilherme Nunes"
+
+"cpf": "05927156736",
+  "nome": "Juliana Machado"

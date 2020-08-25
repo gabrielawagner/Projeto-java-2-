@@ -1,0 +1,41 @@
+CLIENTE
+
+"cpf": "12534768780",
+  "dataNascimento": "1975-11-23",
+  "email": "joao_silva@hotmail.com",
+  "endereco": "Rua Maceió, 23, Quintandinha, Petropolis-RJ",
+  "nome": "João Silva",
+  "nomeDeUsuario": "josi1975",
+  "telefone": "24992564323"
+
+"cpf": "38485600757",
+  "dataNascimento": "1994-01-03",
+  "email": "maria-veloso@gmail.com",
+  "endereco": "Rua Bingem, 23, Bingem, Petropolis-RJ",
+  "nome": "Maria da Conceição Veloso",
+  "nomeDeUsuario": "mar4588",
+  "telefone": "24988765432"
+
+"cpf": "23745655749",
+  "dataNascimento": "1996-05-04",
+  "email": "thiago1996@globo.com",
+  "endereco": "Rua Pedro da Rocha, 23,Tijuca , Rio de Janeiro-RJ",
+  "nome": "Thiago Braga Cardoso",
+  "nomeDeUsuario": "TBC1000",
+  "telefone": "2199132564798"
+
+"cpf": "47854228138",
+  "dataNascimento": "1988-09-07",
+  "email": "serginho_bastos@uol.com",
+  "endereco": "Rua 15 de Abril, 865, Olivais, Baurú-SP",
+  "nome": "Sérgio Bastos",
+  "nomeDeUsuario": "SERBA555",
+  "telefone": "1198876453429"
+
+"cpf": "14245833478",
+  "dataNascimento": "1998-03-30",
+  "email": "vivi_haroldo@hotmail.com",
+  "endereco": "Rua dos mineiros, 1588, Inconfidentes, Lageado-MG",
+  "nome": "Vilma Haroldo Vianna",
+  "nomeDeUsuario": "VIVI456",
+  "telefone": "3298765439876"
