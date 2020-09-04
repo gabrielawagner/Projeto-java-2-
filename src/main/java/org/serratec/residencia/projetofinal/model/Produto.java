@@ -27,7 +27,7 @@ public class Produto implements Comparable<Produto> {
 	@Column(name = "autor", nullable = false)
 	private String autor;
 
-	@Column(name = "descricao", nullable = false)
+	@Column(name = "descricao", nullable = false, length=10485760)
 	private String descricao;
 
 	@Column(name = "data_de_fabricacao", nullable = false)
@@ -38,6 +38,9 @@ public class Produto implements Comparable<Produto> {
 
 	@Column(name = "valor_unitario", nullable = false)
 	private Double valorUnitario;
+
+	@Column(name = "imagem_url", nullable = false, length=10485760)
+	private String urlImagem;
 
 	@ManyToOne
 	@JoinColumn(name="funcionario_id", 
@@ -137,6 +140,14 @@ public class Produto implements Comparable<Produto> {
 
 	public void setAutor(String autor) {
 		this.autor = autor;
+	}
+
+	public String getUrlImagem() {
+		return urlImagem;
+	}
+
+	public void setUrlImagem(String urlImagem) {
+		this.urlImagem = urlImagem;
 	}
 
 }

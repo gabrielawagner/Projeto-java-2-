@@ -37,6 +37,9 @@ public class FormProduto {
 
 	@NotNull
 	Integer idCategoria;
+	
+	@NotNull
+	String urlImagem;
 
 	public FormProduto() {
 	}
@@ -50,6 +53,7 @@ public class FormProduto {
 		this.idCategoria = produto.getCategoria().getId();
 		this.idFuncionario = produto.getFuncionario().getId();
 		this.autor = produto.getAutor();
+		this.urlImagem = produto.getUrlImagem();
 	}
 
 	public Produto toProduto(Categoria categoria, Funcionario funcionario) {
@@ -60,6 +64,7 @@ public class FormProduto {
 		produto.setDataDeFabricacao(this.dataDeFabricacao);
 		produto.setQuantidadeEmEstoque(this.quantidadeEmEstoque);
 		produto.setValorUnitario(this.valorUnitario);
+		produto.setUrlImagem(this.urlImagem);
 		produto.setCategoria(categoria);
 		produto.setFuncionario(funcionario);
 		return produto;
@@ -128,6 +133,14 @@ public class FormProduto {
 
 	public void setValorUnitario(Double valorUnitario) {
 		this.valorUnitario = valorUnitario;
+	}
+
+	public String getUrlImagem() {
+		return urlImagem;
+	}
+
+	public void setUrlImagem(String urlImagem) {
+		this.urlImagem = urlImagem;
 	}
 
 }

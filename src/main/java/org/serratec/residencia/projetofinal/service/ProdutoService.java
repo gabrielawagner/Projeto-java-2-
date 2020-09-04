@@ -125,7 +125,7 @@ public class ProdutoService {
 	}
 
 	public List<Produto> buscaPorCategoria(String categoria){
-		List<Produto> produtos = produtoRepository.findByCategoriaDescricao(categoria);
+		List<Produto> produtos = produtoRepository.findByCategoriaNome(categoria);
 		return produtos;
 	}
 }
